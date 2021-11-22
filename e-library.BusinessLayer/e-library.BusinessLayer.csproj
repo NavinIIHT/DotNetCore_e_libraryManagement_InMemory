@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>e_library.BusinessLayer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\e-library.DataLayer\e-library.DataLayer.csproj" />
+    <ProjectReference Include="..\e-library.Entities\e-library.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

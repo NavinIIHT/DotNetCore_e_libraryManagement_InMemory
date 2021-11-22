@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <RootNamespace>e_library</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\e-library.BusinessLayer\e-library.BusinessLayer.csproj" />
+    <ProjectReference Include="..\e-library.DataLayer\e-library.DataLayer.csproj" />
+    <ProjectReference Include="..\e-library.Entities\e-library.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
