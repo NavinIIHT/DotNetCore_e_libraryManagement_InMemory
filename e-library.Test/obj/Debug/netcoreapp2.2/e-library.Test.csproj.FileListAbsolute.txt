@@ -54,7 +54,6 @@ D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\D
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.AssemblyInfoInputs.cache
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.AssemblyInfo.cs
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.csproj.CoreCompileInputs.cache
-D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.csproj.CopyComplete
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.dll
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.pdb
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.Test\obj\Debug\netcoreapp2.2\e-library.Test.genruntimeconfig.cache

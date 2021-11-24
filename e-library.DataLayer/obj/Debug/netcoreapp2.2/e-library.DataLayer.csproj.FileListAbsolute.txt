@@ -20,6 +20,5 @@ D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\obj\Debug\netcoreapp2.2\e-library.DataLayer.AssemblyInfoInputs.cache
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\obj\Debug\netcoreapp2.2\e-library.DataLayer.AssemblyInfo.cs
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\obj\Debug\netcoreapp2.2\e-library.DataLayer.csproj.CoreCompileInputs.cache
-D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\obj\Debug\netcoreapp2.2\e-library.DataLayer.csproj.CopyComplete
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\obj\Debug\netcoreapp2.2\e-library.DataLayer.dll
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library.DataLayer\obj\Debug\netcoreapp2.2\e-library.DataLayer.pdb

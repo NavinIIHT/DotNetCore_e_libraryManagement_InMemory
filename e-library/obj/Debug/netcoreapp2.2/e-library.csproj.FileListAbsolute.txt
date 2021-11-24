@@ -44,7 +44,6 @@ D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.RazorAssemblyInfo.cache
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.RazorAssemblyInfo.cs
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.RazorTargetAssemblyInfo.cache
-D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.csproj.CopyComplete
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.dll
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.pdb
 D:\IIHT DATA\LibraryManagement\e-library_CleanCode_InMemory\e-library\obj\Debug\netcoreapp2.2\e-library.genruntimeconfig.cache
